@@ -2,7 +2,7 @@
 
 Data analysis and statistics for School 21.
 
-# Subjects
+## Subjects
 
-- [Subject EN](docs/sunbject_en.md)
-- [Subject RU](docs/sunbject_ru.md)
+- [Subject EN](docs/subject_en.md)
+- [Subject RU](docs/subject_ru.md)
